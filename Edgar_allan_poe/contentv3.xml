@@ -418,7 +418,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="247"></int>
+                     <int value="249"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -432,7 +432,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.3"></unicode>
+                   <unicode value="1_128_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -443,7 +443,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="1cda2b0d-ab54-40cc-be35-cea0952913a6.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/4g/8tsqc4g935j_gk6v_zy0dw5w0000gn/T/tmpVTZF39/1cda2b0d-ab54-40cc-be35-cea0952913a6.png"></string>
+                     <string value="/var/folders/4g/8tsqc4g935j_gk6v_zy0dw5w0000gn/T/tmpY7uuk0/1cda2b0d-ab54-40cc-be35-cea0952913a6.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d5a782821ceb0b5b23d31671db5a337f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -472,7 +472,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="5"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -1271,12 +1271,12 @@ estudiante a responder la pregunta."></unicode>
 &lt;p&gt;-1 group will be in charge of Poe's literature period.&lt;/p&gt;
 &lt;p&gt;-1 group will be in charge of Poe's works.&lt;/p&gt;
 &lt;p&gt;-1 group will be in charge of Poe's repercussions nowadays in present literature and his influence. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Use &lt;a href=&quot;https://www.canva.com/templates&quot;&gt;Canva&lt;/a&gt; to create an infographic about your chosen work. It will be a collaborative work that you have to complete on one single template. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Use &lt;a href=&quot;https://www.canva.com/templates&quot;&gt;Canva&lt;/a&gt; to create an infographic about your chosen work. It will be a collaborative work that you have to complete on one single template and each group will be in charge of one aspect of the infographic. &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Here you can find a perfect model to follow: &lt;/strong&gt;&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-SA&quot; style=&quot;width: 800px;&quot;&gt;&lt;img src=&quot;resources/Characters_in_Gothic_Literature_Infographic_in_Purple_Black_Dark_Illustrative_Style.png&quot; alt=&quot;&quot; title=&quot;Gothic Literature&quot; width=&quot;800&quot; height=&quot;2000&quot; /&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Antonio Morales&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Gothic literature infographic&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;strong&gt;4. Upload your task on Google Classroom and follow the rubric that is available. Use the collaborative document in order the complete the task correctly. &lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1296,7 +1296,7 @@ estudiante a responder la pregunta."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="246"></int>
+                     <int value="248"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1310,7 +1310,7 @@ estudiante a responder la pregunta."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="5_132_2.2"></unicode>
+                   <unicode value="5_132_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -1321,7 +1321,7 @@ estudiante a responder la pregunta."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Characters_in_Gothic_Literature_Infographic_in_Purple_Black_Dark_Illustrative_Style.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/4g/8tsqc4g935j_gk6v_zy0dw5w0000gn/T/tmpVTZF39/Characters_in_Gothic_Literature_Infographic_in_Purple_Black_Dark_Illustrative_Style.png"></string>
+                     <string value="/var/folders/4g/8tsqc4g935j_gk6v_zy0dw5w0000gn/T/tmpY7uuk0/Characters_in_Gothic_Literature_Infographic_in_Purple_Black_Dark_Illustrative_Style.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5d20ad4f9073cb674e0f965045b26bfe"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1350,7 +1350,7 @@ estudiante a responder la pregunta."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="25"></reference>
              </dictionary>
